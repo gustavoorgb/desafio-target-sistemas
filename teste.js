@@ -1,5 +1,5 @@
-const indice = 12;
-let k = 1;
+const indice = 13;
+let k = 0;
 let soma = 0;
 
 while(k < indice){
